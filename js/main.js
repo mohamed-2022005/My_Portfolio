@@ -2,7 +2,7 @@ var typedTextSpan = document.querySelector(".typed-text");
 
 
 
-var textArray = ["Web Developer","Front-End","Freelancer"]
+var textArray = ["Automation Engineer", "Mechatronics Engineer", "Control Systems Engineer"]
 
 var textArrayIndex = 0;
 
